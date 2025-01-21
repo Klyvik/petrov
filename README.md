@@ -1,3 +1,8 @@
+![image](https://github.com/user-attachments/assets/83cfa9c5-2a02-41db-bbd7-559ab54600e5)
+
+
+
+
 # Для начала нужно установить Linux Oracle на VirtualBox:
 
 Установить образ Linux
